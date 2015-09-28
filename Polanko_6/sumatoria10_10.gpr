@@ -1,0 +1,5 @@
+project Sumatoria10_10 is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("main.adb");
+end Sumatoria10_10;
